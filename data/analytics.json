@@ -1,0 +1,85 @@
+{
+  "bot": {
+    "startTime": "2025-08-24T15:37:21.435Z",
+    "totalCommands": 2,
+    "totalDownloads": 1,
+    "totalErrors": 0,
+    "totalAIQueries": 0,
+    "uptime": 367
+  },
+  "users": {
+    "total": 2,
+    "active": [
+      375566131,
+      5461460445
+    ],
+    "dailyActive": [
+      375566131,
+      5461460445
+    ],
+    "banned": [],
+    "languages": {
+      "id": 0,
+      "en": 0
+    }
+  },
+  "downloads": {
+    "videos": 1,
+    "photos": 0,
+    "audios": 0,
+    "failed": 0,
+    "successRate": "100.00"
+  },
+  "commands": {
+    "start": 0,
+    "help": 0,
+    "runtime": 0,
+    "stats": 2,
+    "broadcast": 0,
+    "ban": 0,
+    "unban": 0
+  },
+  "usage": {
+    "hourly": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "daily": {},
+    "peakHour": 22,
+    "lastReset": "2025-08-24T15:37:21.435Z"
+  },
+  "performance": {
+    "avgResponseTime": 0,
+    "memoryUsage": {
+      "rss": 71761920,
+      "heapTotal": 32116736,
+      "heapUsed": 18218232,
+      "external": 2122920,
+      "arrayBuffers": 19691
+    },
+    "errorRate": 0,
+    "lastHealthCheck": "2025-08-24T15:37:21.435Z"
+  }
+}
